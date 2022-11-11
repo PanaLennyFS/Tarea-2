@@ -1,0 +1,12 @@
+{
+  "name": "tarea-2",
+  "version": "1.0.0",
+  "description": "Esta es mi segunda tarea",
+  "main": "tarea.js",
+  "scripts": {
+    "start": "node run tarea.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Lenny\"",
+  "license": "ISC"
+}
